@@ -1,0 +1,198 @@
+Mobs/rock/Name=Đá
+Mobs/rock/Description=Một tảng đá. Nó không làm gì cả.
+Mobs/rock/Spawn=Có thứ gì đó giống như ngọn núi xuất hiện ở đằng xa...
+
+Mobs/cactus/Name=Xương rồng
+Mobs/cactus/Description=Tránh chạm vào nó, nó đau lắm.
+Mobs/cactus/Spawn=Một tòa tháp gai mọc lên từ bãi cát...
+
+Mobs/ladybug/Name=Bọ rùa
+Mobs/ladybug/Description=Dễ thương và vô hại.
+
+Mobs/bee/Name=Ong
+Mobs/bee/Description=Nó đốt đấy. Đừng chạm vào nó.
+
+Mobs/ant_baby/Name=Kiến con
+Mobs/ant_baby/Description=Yếu đuối và không có khả năng tự vệ, nhưng có những ước mơ lớn.
+
+Mobs/ant_worker/Name=Kiến thợ
+Mobs/ant_worker/Description=Tính tình hơi thất thường, có lẽ vì làm việc quá nhiều.
+
+Mobs/ant_soldier/Name=Kiến lính
+Mobs/ant_soldier/Description=Nó có cánh và sẵn sàng sử dụng chúng.
+
+Mobs/ant_queen/Name=Kiến chúa
+Mobs/ant_queen/Description=Chắc hẳn bạn đã làm gì đó rất tệ nếu cô ấy đang đuổi bạn.
+
+Mobs/ant_hole/Name=Tổ kiến
+Mobs/ant_hole/Description=Kiến vào, rồi lại ra. Không ai có thể giải thích được điều đó.
+
+Mobs/beetle/Name=Bọ cánh cứng
+Mobs/beetle/Description=Nó đói và hoa là bữa ăn yêu thích của nó.
+
+Mobs/hornet/Name=Ong vò vẽ
+Mobs/hornet/Description=Những con này không dễ chịu như ong nhỏ đâu.
+Mobs/hornet/Spawn=Một đốm vàng lớn xuất hiện ở đằng xa...
+
+Mobs/centipede/Name=Rết
+Mobs/centipede/Description=Nó chỉ đang làm việc của mình thôi.
+
+Mobs/centipede_body/Name=Rết
+Mobs/centipede_body/Description=Nó chỉ đang làm việc của mình thôi.
+
+Mobs/centipede_evil/Name=Rết
+Mobs/centipede_evil/Description=Con này rất thích hoa.
+
+Mobs/centipede_evil_body/Name=Rết
+Mobs/centipede_evil_body/Description=Con này rất thích hoa.
+
+Mobs/centipede_desert/Name=Rết
+Mobs/centipede_desert/Description=Gotta go fast.
+
+Mobs/centipede_desert_body/Name=Rết
+Mobs/centipede_desert_body/Description=Gotta go fast.
+
+Mobs/square/Name=Hình vuông
+Mobs/square/Description=Hình dạng này... nhìn quen quá...
+
+Mobs/ladybug_dark/Name=Bọ rùa
+Mobs/ladybug_dark/Description=Dễ thương và vô hại... nếu không bị khiêu khích.
+
+Mobs/ladybug_shiny/Name=Bọ rùa
+Mobs/ladybug_shiny/Description=Óng ánh, dễ thương và phần lớn là vô hại.
+
+Mobs/spider/Name=Nhện
+Mobs/spider/Description=Đáng sợ.
+
+Mobs/scorpion/Name=Bọ cạp
+Mobs/scorpion/Description=CẨN THẬN BỊ CHÍCH!
+
+Mobs/fire_ant_soldier/Name=Kiến lửa lính
+Mobs/fire_ant_soldier/Description=Con kiến này đang bùng cháyyyyyyyy.
+
+Mobs/fire_ant_burrow/Name=Tổ kiến lửa
+Mobs/fire_ant_burrow/Description=Có thể có gì đó ở trong đây?
+
+Mobs/sandstorm/Name=Bão cát
+Mobs/sandstorm/Description=Darude (1999)
+
+Mobs/bubble/Name=Bong bóng
+Mobs/bubble/Description=Pop
+
+Mobs/bumble_bee/Name=Ong nghệ
+Mobs/bumble_bee/Description=GOTTA RUN.
+
+Mobs/shell/Name=Vỏ sò
+Mobs/shell/Description=Không phải là quảng cáo đâu.
+
+Mobs/starfish/Name=Sao biển
+Mobs/starfish/Description=Tên của nó là Patrick.
+
+Mobs/crab/Name=Cua
+Mobs/crab/Description=Mr. Crab.
+
+Mobs/jellyfish/Name=Sứa
+Mobs/jellyfish/Description=Làm loại mứt ngon nhất.
+Mobs/jellyfish/Spawn=Bạn nghe thấy tiếng sấm sét từ đằng xa...
+
+Mobs/digger/Name=Thợ đào
+Mobs/digger/Description=Nhầm game rồi, bạn à.
+
+Mobs/sponge/Name=Bọt biển
+Mobs/sponge/Description=Bob.
+
+Mobs/leech/Name=Đỉa
+Mobs/leech/Description=Slurp slurp.
+
+Mobs/leech_body/Name=Đỉa
+Mobs/leech_body/Description=Slurp slurp.
+
+Mobs/dandelion/Name=Bồ công anh
+Mobs/dandelion/Description=Mềm mại.
+
+Mobs/fire_ant_baby/Name=Kiến con lửa
+Mobs/fire_ant_baby/Description=Con kiến này đang bùng cháyyyyyyyy.
+
+Mobs/fire_ant_worker/Name=Kiến thợ lửa
+Mobs/fire_ant_worker/Description=Con kiến này đang bùng cháyyyyyyyy.
+
+Mobs/fire_ant_queen/Name=Kiến chúa lửa
+Mobs/fire_ant_queen/Description=Con kiến này đang bùng cháyyyyyyyy.
+
+Mobs/ant_egg/Name=Trứng kiến
+Mobs/ant_egg/Description=Chưa là kiến nhưng có thể sắp thành.
+
+Mobs/fire_ant_egg/Name=Trứng kiến lửa
+Mobs/fire_ant_egg/Description=Con kiến này chưa bùng cháy.
+
+Mobs/fly/Name=Ruồi
+Mobs/fly/Description=Hzzzzzzzzzzzz.
+
+Mobs/leafbug/Name=Bọ lá
+Mobs/leafbug/Description=Không phải lá, nhưng là bọ.
+
+Mobs/mantis/Name=Bọ ngựa
+Mobs/mantis/Description=Tốt nhất là cầu nguyện bạn không trở thành bữa tối.
+
+Mobs/termite_baby/Name=Mối con
+Mobs/termite_baby/Description=Yếu đuối và không có khả năng tự vệ, nhưng có những ước mơ lớn. Những sinh vật này dường như có mối liên kết nào đó.
+
+Mobs/termite_worker/Name=Mối thợ
+Mobs/termite_worker/Description=Tính tình hơi thất thường, có lẽ vì làm việc quá nhiều. Những sinh vật này dường như có mối liên kết nào đó.
+
+Mobs/termite_soldier/Name=Mối lính
+Mobs/termite_soldier/Description=Nó có cánh và sẵn sàng sử dụng chúng. Những sinh vật này dường như có mối liên kết nào đó.
+
+Mobs/termite_overmind/Name=Chúa tể mối
+Mobs/termite_overmind/Description=Người giám sát tất cả.
+
+Mobs/termite_mound/Name=Tổ mối
+Mobs/termite_mound/Description=Mối vào, rồi lại ra. Không ai có thể giải thích được điều đó.
+
+Mobs/termite_egg/Name=Trứng mối
+Mobs/termite_egg/Description=Chưa là mối nhưng có thể sắp thành.
+
+Mobs/bush/Name=Bụi cây
+Mobs/bush/Description=Đừng đánh giá thấp tôi.
+
+Mobs/roach/Name=Gián
+Mobs/roach/Description=Phải chạy thật nhanh... cho đến khi chúng mệt.
+
+Mobs/moth/Name=Bướm đêm
+Mobs/moth/Description=Dễ bị hoảng sợ, hãy tử tế.
+
+Mobs/firefly/Name=Đom đóm
+Mobs/firefly/Description=Ồ... phát sáng.
+Mobs/firefly/Spawn=Có một ánh sáng rực rỡ ở chân trời...
+
+Mobs/beetle_hel/Name=Bọ cánh cứng
+Mobs/beetle_hel/Description=Một tai họa xuất hiện từ cõi khác.
+Mobs/beetle_hel/Spawn=Bạn cảm thấy những rung động kỳ lạ từ một chiều không gian khác...
+
+Mobs/wasp/Name=Ong bắp cày
+Mobs/wasp/Description=Chúng rất GIẬN DỮ.
+
+Mobs/dummy/Name=Người nộm
+Mobs/dummy/Description=Sao bạn lại có cái này trong bộ sưu tập?
+
+Mobs/spider_hel/Name=Nhện
+Mobs/spider_hel/Description=Một tai họa xuất hiện từ cõi khác.
+Mobs/spider_hel/Spawn=Bạn cảm thấy những rung động kỳ lạ từ một chiều không gian khác...
+
+Mobs/centipede_hel/Name=Rết
+Mobs/centipede_hel/Description=Một tai họa xuất hiện từ cõi khác.
+Mobs/centipede_hel/Spawn=Bạn cảm thấy những rung động kỳ lạ từ một chiều không gian khác...
+
+Mobs/centipede_hel_body/Name=Rết
+Mobs/centipede_hel_body/Description=Một tai họa xuất hiện từ cõi khác.
+Mobs/centipede_hel_body/Spawn=Bạn cảm thấy những rung động kỳ lạ từ một chiều không gian khác...
+
+Mobs/wasp_hel/Name=Ong bắp cày
+Mobs/wasp_hel/Description=Một tai họa xuất hiện từ cõi khác.
+Mobs/wasp_hel/Spawn=Bạn cảm thấy những rung động kỳ lạ từ một chiều không gian khác...
+
+Mobs/trader/Name=Thương nhân
+
+Mobs/gambler/Name=Con bạc
+Mobs/gambler/Description=Điều này có thể xảy ra với BẠN.
+Mobs/gambler/Spawn=Một kẻ nguy hiểm xuất hiện...

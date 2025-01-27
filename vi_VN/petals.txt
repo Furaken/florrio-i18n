@@ -1,0 +1,387 @@
+Petals/basic/Name=Cơ bản
+Petals/basic/FullName=Cơ bản
+Petals/basic/Description=Một cánh hoa đẹp, không quá mạnh nhưng cũng không quá yếu.
+
+Petals/light/Name=Nhẹ
+Petals/light/FullName=Nhẹ
+Petals/light/Description=Yếu hơn hầu hết các cánh hoa khác, nhưng tái tạo rất nhanh.
+
+Petals/rock/Name=Đá
+Petals/rock/FullName=Đá
+Petals/rock/Description=Cực kì bền bỉ, nhưng tái tạo khá chậm.
+
+Petals/square/Name=Vuông
+Petals/square/FullName=Vuông
+Petals/square/Description=Hình dạng này... nhìn quen quá...
+
+Petals/rose/Name=Hoa hồng
+Petals/rose/FullName=Hoa hồng
+Petals/rose/Description=Nó hồi phục rất tốt, nhưng có vẻ không nên dùng để đánh nhau.
+
+Petals/stinger/Name=Ngòi
+Petals/stinger/FullName=Ngòi Chích
+Petals/stinger/Description=Nó rất đau, nhưng cũng rất mong manh.
+
+Petals/iris/Name=Diên vĩ
+Petals/iris/FullName=Chi Diên vĩ
+Petals/iris/Description=Cực độc, nhưng phải đợi một lúc để nó gây tác dụngk.<n/>-50% sát thương lên nhưng bông hoa khác.
+
+Petals/wing/Name=Cánh
+Petals/wing/FullName=Cánh
+Petals/wing/Description=Nó đến và đi.
+
+Petals/missile/Name=Tên lửa
+Petals/missile/FullName=Tên lửa
+Petals/missile/Description=Có thể phóng.
+
+Petals/grapes/Name=Nho
+Petals/grapes/FullName=Nho
+Petals/grapes/Description=Bùm. Với công thức bí mật: độc.
+
+Petals/cactus/Name=Xương rồng
+Petals/cactus/FullName=Xương rồng
+Petals/cactus/Description=Không quá mạnh, nhưng bằng cách nào đó nó làm tăng giới hạn HP của hoa.
+
+Petals/faster/Name=Nhanh
+Petals/faster/FullName=Nhanh
+Petals/faster/Description=Nó quá nhẹ, giúp những cánh hoa khác quay nhanh hơn.
+
+Petals/bubble/Name=Bong bóng
+Petals/bubble/FullName=Bong bóng
+Petals/bubble/Description=Vật lý chỉ dành cho những kẻ yếu.
+
+Petals/pollen/Name=Phấn
+Petals/pollen/FullName=Phấn hoa
+Petals/pollen/Description=Cẩn thận nếu bạn bị hen suyễn.
+
+Petals/dandelion/Name=Bồ công anh
+Petals/dandelion/FullName=Bồ công anh
+Petals/dandelion/Description=Gây ức chế lên tác dụng hồi phục của kẻ địch mà nó ảnh hưởng.<n/>Những kẻ địch bị ảnh hưởng bị giảm 20% lượng hồi phục. Có thể chồng lên nhau.
+
+Petals/beetle_egg/Name=Trứng
+Petals/beetle_egg/FullName=Trứng bọ cánh cứng
+Petals/beetle_egg/Description=Có thể có gì đó thú vị sẽ nở ra.
+
+Petals/antennae/Name=Râu
+Petals/antennae/FullName=Râu
+Petals/antennae/Description=Giúp bạn phát giác kẻ thù từ xa.
+
+Petals/heavy/Name=Nặng
+Petals/heavy/FullName=Nặng
+Petals/heavy/Description=Thứ này quá nặng, không gì có thể cản lại chúng.<n/>Làm chậm tốc độ quay khi dùng.
+
+Petals/yin_yang/Name=Âm Dương
+Petals/yin_yang/FullName=Âm Dương
+Petals/yin_yang/Description=Cái cánh hoa huyền bí này gây ảnh hưởng lên xu hướng quay của các cánh hoa một cách không xác định được.
+
+Petals/web/Name=Mạng nhện
+Petals/web/FullName=Mạng nhện
+Petals/web/Description=Nó rất dính.
+
+Petals/honey/Name=Mật
+Petals/honey/FullName=Mật ong
+Petals/honey/Description=Những con côn trùng rất thích nó. Thứ này có thể thu hút chúng trong phạm vi lớn.<n/>Những con côn trùng sẽ ưu tiên ăn cái này hơn nhưng bông hoa.<n/>Những côn trùng bị ảnh hưởng sẽ phát triển và miễn dịch với tác dụng của nó sau một khoảng thời gian.
+
+Petals/leaf/Name=Lá
+Petals/leaf/FullName=Lá
+Petals/leaf/Description=Lấy năng lượng từ mặt trời và hồi phục bông hoa của bạn một cách thụ động.
+
+Petals/salt/Name=Muối
+Petals/salt/FullName=Muối
+Petals/salt/Description=Phản sát thương lên kẻ thù đã tác động lên bạn.<n/>Độ hiếm của quái càng cao thì độ kháng phản sát thương cũng càng cao.
+
+Petals/rice/Name=Gạo
+Petals/rice/FullName=Gạo
+Petals/rice/Description=Tái tạo rất nhanh, nhưng không quá mạnh.
+
+Petals/corn/Name=Bắp
+Petals/corn/FullName=Bắp
+Petals/corn/Description=Tốn khá nhiều thời gian để tái tạo, nhưng rất có nhiều máu.
+
+Petals/sand/Name=Cát
+Petals/sand/FullName=Cát
+Petals/sand/Description=Một đống cát.
+
+Petals/pincer/Name=Kẹp
+Petals/pincer/FullName=Kẹp
+Petals/pincer/Description=Làm suy yếu kẻ thù tạm thời, giảm tốc độ di chuyển của chúng.
+
+Petals/yucca/Name=Yucca
+Petals/yucca/FullName=Yucca
+Petals/yucca/Description=Hồi phục bông hoa của bạn nhưng chỉ ở trong trạng thái phòng thủ.
+
+Petals/magnet/Name=Nam châm
+Petals/magnet/FullName=Nam châm
+Petals/magnet/Description=Tăng phạm vi nhặt.
+
+Petals/yggdrasil/Name=Yggdrasil
+Petals/yggdrasil/FullName=Yggdrasil
+Petals/yggdrasil/Description=Một chiếc lá khô từ cây Yggdrasil.<n/>Được đồn rằng có thể hồi sinh người đã khuất.
+
+Petals/starfish/Name=Sao biển
+Petals/starfish/FullName=Sao biển
+Petals/starfish/Description=Tăng lượng máu hồi phục chỉ khi HP thấp hơn 75%.
+
+Petals/pearl/Name=Ngọc trai
+Petals/pearl/FullName=Ngọc trai
+Petals/pearl/Description=Thả nó ở đâu đó và sử dụng động năng để không làm mất nó.
+
+Petals/lightning/Name=Sét
+Petals/lightning/FullName=Sét
+Petals/lightning/Description=Đánh tia sét vào những kẻ thù lân cận.
+
+Petals/jelly/Name=Thạch
+Petals/jelly/FullName=Thạch sứa
+Petals/jelly/Description=Không ai thích chạm nó cả.
+
+Petals/claw/Name=Càng
+Petals/claw/FullName=Càng
+Petals/claw/Description=Gây một lượng sát thương thêm nếu đối tượng có HP lớn hơn 80%.<n/>-50% sát thương lên bông hoa.
+
+Petals/shell/Name=Vỏ
+Petals/shell/FullName=Vỏ sò
+Petals/shell/Description=Thêm một lượng khiên tạm thời cho bản thân hoặc đồng đội.
+
+Petals/cutter/Name=Lưỡi cắt
+Petals/cutter/FullName=Lưỡi cắt
+Petals/cutter/Description=Một người bạn từng sở hữu nó... bây giờ chính là lúc để trả thù.<n/>Tăng sát thương cơ thể.
+
+Petals/dahlia/Name=Thược dược
+Petals/dahlia/FullName=Cúc Thược dược
+Petals/dahlia/Description=Hồi một ít, nhưng rất công bằng.
+
+Petals/uranium/Name=Uranium
+Petals/uranium/FullName=Uranium
+Petals/uranium/Description=Phát ra bức xạ.<n/>-75% sát thương lên những bông hoa khác.<n/>Độ mạnh phụ thuộc vào khoảng cách từ kẻ thù đến với cánh hoa này.
+
+Petals/sponge/Name=Bọt biển
+Petals/sponge/FullName=Bọt biển
+Petals/sponge/Description=Lan chậm sát thương nhận vào trong chu kỳ nhất định.<n/>Nếu bị phá vỗ, lượng sát thương còn tồn đọng lại sẽ trực tiếp gây lên cơ thể cùng một lúc.<n/>Sát thương {#UI/Attribute/PoisonColored} không bị ảnh hưởng.
+
+Petals/soil/Name=Đất
+Petals/soil/FullName=Đất
+Petals/soil/Description=Tăng HP, nhưng cũng tăng kích thước bông hoa và giảm tốc độ di chuyển.
+
+Petals/fangs/Name=Nanh
+Petals/fangs/FullName=Nanh
+Petals/fangs/Description=Hồi phục dựa vào sát thương gây ra bởi chính cánh hoa này.
+
+Petals/third_eye/Name=Tam Nhãn
+Petals/third_eye/FullName=Tam Nhãn
+Petals/third_eye/Description=Allows your flower to expand your petals further out.
+
+Petals/peas/Name=Đậu
+Petals/peas/FullName=Đậu
+Petals/peas/Description=Bùm.
+
+Petals/stick/Name=Gậy
+Petals/stick/FullName=Cây gậy huyền bí
+Petals/stick/Description=Một cây gậy bí ẩn có thể triệu hồi sức mạnh của gió.
+
+Petals/clover/Name=Cỏ may mắn
+Petals/clover/FullName=Cỏ may mắn
+Petals/clover/Description=Tăng độ may mắn của bạn.<n/>Độ may mắn được sử dụng để thay đổi chỉ số của một số cánh hoa..
+
+Petals/powder/Name=Bột
+Petals/powder/FullName=Bột huyền bí
+Petals/powder/Description=Tăng tốc độ di chuyển.<n/>Bị phá hủy nếu bông hoa dính sát thương hoặc gần quái có độ hiếm cao hơn.
+
+Petals/air/Name=Không khí
+Petals/air/FullName=Không khí
+Petals/air/Description=...
+
+Petals/basil/Name=Húng
+Petals/basil/FullName=Húng tây
+Petals/basil/Description=Tăng tất cả lượng hồi phục nhận vào.
+
+Petals/orange/Name=Cam
+Petals/orange/FullName=Cam
+Petals/orange/Description=Trông có vẻ ngọt.
+
+Petals/ant_egg/Name=Trứng
+Petals/ant_egg/FullName=Trứng kiến
+Petals/ant_egg/Description=Có thể có gì đó thú vị sẽ nở ra.
+
+Petals/poo/Name=Phân
+Petals/poo/FullName=Phân
+Petals/poo/Description=Làm cho quái ít tấn công bạn hơn.
+
+Petals/relic/Name=Di vật
+Petals/relic/FullName=Di vật huyền bí
+Petals/relic/Description=Một di vật lạ thường. Tăng giới hạn HP của bạn thân lên đáng kể.<n/>Sát thương nhận vào được chia sẻ với những bông hoa khác cũng trang bị nó.
+
+Petals/lotus/Name=Sen
+Petals/lotus/FullName=Hoa sen
+Petals/lotus/Description=Hấp thụ độc nhận vào.
+
+Petals/bulb/Name=Bóng đèn
+Petals/bulb/FullName=Bóng đèn
+Petals/bulb/Description=Một cái bóng đèn sáng bóng. Thu hút sự chú ý của quái.
+
+Petals/cotton/Name=Bông
+Petals/cotton/FullName=Bông
+Petals/cotton/Description=Hấp thụ sát thương nhận vào.
+
+Petals/carrot/Name=Cà rốt
+Petals/carrot/FullName=Cà rốt
+Petals/carrot/Description=Cứng và đáng tin cậy. Có thể phóng và phản lại khi chạm tường.
+
+Petals/bone/Name=Xương
+Petals/bone/FullName=Xương
+Petals/bone/Description=Cứng.
+
+Petals/plank/Name=Ván
+Petals/plank/FullName=Tấm ván
+Petals/plank/Description=Gây 20x sát thương đối đạn và cánh hoa.
+
+Petals/tomato/Name=Cà chua
+Petals/tomato/FullName=Cà chua
+Petals/tomato/Description=Mạnh hơn sau một thời gian.
+
+Petals/mark/Name=Kí hiệu
+Petals/mark/FullName=Kí hiệu Hắc ám
+Petals/mark/Description=Một kí hiệu hắc ám ràng buộc chính nó lên một linh hồn sa ngã.
+
+Petals/rubber/Name=Cao su
+Petals/rubber/FullName=Cao su
+Petals/rubber/Description=Tăng độ đàn hồi. Có thể hấp thụ sát thương điện nhận vào.
+
+Petals/blood_stinger/Name=Ngòi
+Petals/blood_stinger/FullName=Ngòi chích máu
+Petals/blood_stinger/Description=Nó rất đau, nhưng cũng rất mong manh.<n/>Gây sát thương lên bản thân khi tái tạo.
+
+Petals/bur/Name=Quả có gai
+Petals/bur/FullName=Quả có gai
+Petals/bur/Description=Giảm lượng giáp của kẻ địch bị ảnh hưởng. Không thể xếp chồng lên nhau.
+
+Petals/root/Name=Rễ
+Petals/root/FullName=Rễ
+Petals/root/Description=Cung cấp lượng giáp thêm nhưng chỉ khi ở trạng thái phòng thủ.
+
+Petals/ankh/Name=Ankh
+Petals/ankh/FullName=Ankh
+Petals/ankh/Description=Một di vật cổ đại.<n/>Khi bị phá hủy, nó sẽ dịch chuyển bông hoa của bạn tới nơi nó bị phá hủy.
+
+Petals/dice/Name=Xúc xắc
+Petals/dice/FullName=Xúc xắc
+Petals/dice/Description=Có 5% xác suất để gây ra lượng sát thương thêm bằng 35x sát thương cơ bản.<n/>Xác suất được tăng lên 4% cho mỗi điểm số may mắn.
+
+Petals/talisman/Name=Bùa hộ mệnh
+Petals/talisman/FullName=Bùa hộ mệnh của Khéo léo
+Petals/talisman/Description=Một cái vòng cổ cho phép người mặc dự đoán trước đòn tấn công của kẻ thù.
+
+Petals/battery/Name=Pin
+Petals/battery/FullName=Pin
+Petals/battery/Description=Phóng điện mỗi khi bạn bị đánh trúng.
+
+Petals/amulet/Name=Bùa hộ mệnh
+Petals/amulet/FullName=Bùa hộ mệnh của Sự sống
+Petals/amulet/Description=Biến đổi phần trăm của lượng hồi phục dư thừa thanh khiên.
+
+Petals/compass/Name=La bàn
+Petals/compass/FullName=La bàn
+Petals/compass/Description=Thứ này trông có vẻ cũ kỹ nhưng biết đâu sẽ tìm được gì đó thú vi...
+
+Petals/disc/Name=Đĩa
+Petals/disc/FullName=Đĩa
+Petals/disc/Description=Giảm sát thương va chạm nhận vào từ quái và hoa.
+
+Petals/shovel/Name=Xẻng
+Petals/shovel/FullName=Xẻng
+Petals/shovel/Description=Không thể bị đánh trúng, nhưng cũng không thể sử dụng cánh hoa trong thời gian ngắn.
+
+Petals/coin/Name=Xu
+Petals/coin/FullName=Đồng xu
+Petals/coin/Description=Sức mạnh tư bản!
+
+Petals/chip/Name=Phỉnh
+Petals/chip/FullName=Phỉnh Xì tố
+Petals/chip/Description=ALL IN.
+
+Petals/card/Name=Thẻ
+Petals/card/FullName=Thẻ bài
+Petals/card/Description=Một cái thẻ bài. Có vẻ như đã bị đánh dấu.
+
+Petals/moon/Name=Trăng
+Petals/moon/FullName=Đá Mặt Trăng
+Petals/moon/Description=Cái thứ này quá to làm cho những cánh hoa của bạn quay xung quanh nó thay vì bản thân bạn.<n/>Bạn tìm thấy nó ở đâu vậy?
+
+Petals/privet/Name=Quả mọng
+Petals/privet/FullName=Quả mọng
+Petals/privet/Description=Gây lượng sát thương {#UI/Attribute/PoisonColored} thêm dựa vào lượng {#UI/Attribute/PoisonColored} đã có mỗi giây.
+
+Petals/glass/Name=Thủy tinh
+Petals/glass/FullName=Thủy tinh
+Petals/glass/Description=Xuyên qua kẻ địch.<n/>Không thể gây sát thương cho kẻ địch nhiều hơn một khoảng thời gian nhất định.
+
+Petals/corruption/Name=Ô uế
+Petals/corruption/FullName=Ô uế
+Petals/corruption/Description=Làm ô uế linh hồn, khiến họ chống lại đồng đội của chính mình.
+
+Petals/orb/Name=Cầu
+Petals/orb/FullName=Cầu Mana
+Petals/orb/Description=Tạo năng lượng.
+
+Petals/blueberries/Name=Quả việt quất
+Petals/blueberries/FullName=Quả việt quất
+Petals/blueberries/Description=Bùm. Với công thức bí mật: điện.
+
+Petals/magic_cotton/Name=Bông
+Petals/magic_cotton/FullName=Bông phép
+Petals/magic_cotton/Description=Hấp thụ sát thương nhận vào.
+
+Petals/magic_stinger/Name=Ngòi
+Petals/magic_stinger/FullName=Ngòi chích phép
+Petals/magic_stinger/Description=Nó rất đau, nhưng cũng rất mong manh.
+
+Petals/magic_leaf/Name=Lá
+Petals/magic_leaf/FullName=Lá phép
+Petals/magic_leaf/Description=Thu thập năng lượng từ môi trường xung quanh một cách thụ động.
+
+Petals/magic_cactus/Name=Xương rồng
+Petals/magic_cactus/FullName=Xương rồng phép
+Petals/magic_cactus/Description=Tăng sức chứa năng lượng.
+
+Petals/magic_eye/Name=Mắt phép
+Petals/magic_eye/FullName=Mắt phép
+Petals/magic_eye/Description=Tiêu thụ một nửa lượng năng lượng hiện có và gây sát thương dựa vào phần năng lượng đó.
+
+Petals/magic_missile/Name=Tên lửa
+Petals/magic_missile/FullName=Tên lửa phép
+Petals/magic_missile/Description=Được ểm phép và có thể phóng.
+
+Petals/magic_stick/Name=Gậy
+Petals/magic_stick/FullName=Cây gậy phép
+Petals/magic_stick/Description=Một cây gậy bí ẩn có thể triệu hồi sức mạnh của gió... bằng phép thuật.
+
+Petals/coral/Name=San hô
+Petals/coral/FullName=San hô
+Petals/coral/Description=Tan rã khi va chạm.<n/>Mỗi mảnh có 50% chỉ số của mảnh trước.
+
+Petals/magic_bubble/Name=Bong bóng
+Petals/magic_bubble/FullName=Bong bóng phép
+Petals/magic_bubble/Description=Vật lý dành cho những kẻ không có phép thuật.
+
+Petals/nazar/Name=Nazar
+Petals/nazar/FullName=Bùa hộ mệnh Nazar
+Petals/nazar/Description=Giảm 98% sát thương của một cá thể.
+
+Petals/mimic/Name=Mimic
+Petals/mimic/FullName=Mimic
+Petals/mimic/Description=Sao chép cánh hoa ở bên trái nó với độ hiếm của nó.
+
+Petals/mjolnir/Name={#Petals/mjolnir/{0:rarity:is-unique}/Name}
+Petals/mjolnir/FullName={#Petals/mjolnir/{0:rarity:is-unique}/FullName}
+Petals/mjolnir/Description={#Petals/mjolnir/{0:rarity:is-unique}/Description}
+
+Petals/mjolnir/not-unique/Name=Mảnh vỡ
+Petals/mjolnir/not-unique/FullName=Mảnh vỡ
+Petals/mjolnir/not-unique/Description=Có lẽ cái này dùng để rèn thứ gì đó tuyệt vời?
+
+Petals/mjolnir/unique/Name=Mjölnir
+Petals/mjolnir/unique/FullName=Mjölnir
+Petals/mjolnir/unique/Description=Cây búa mạnh nhất vũ trụ.
+	
+Petals/mecha_missile/Name=Tên lửa
+Petals/mecha_missile/FullName=Tên lửa Mecha
+Petals/mecha_missile/Description=Khóa mục tiêu.

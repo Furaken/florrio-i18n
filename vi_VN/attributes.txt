@@ -1,0 +1,68 @@
+Petal/Attribute/Health=<c val="#66FF66">Máu:</c> {0:tooltip}
+Petal/Attribute/Damage=<c val="#FF6666">Sát thương:</c> {0:tooltip}
+Petal/Attribute/Damage/Lightning=<c val="#FF6666">Sát thương:</c> {0:tooltip} <c val="#36ffe7">(điện)</c>
+Petal/Attribute/DamageRange=<c val="#FF6666">Sát thương:</c> {0:tooltip}~{1:tooltip}
+Petal/Attribute/Armor=<c val="#666666">Giáp:</c> {0:tooltip}
+Petal/Attribute/RotationSpeed=<c val="#d2eb34">Tốc độ quay:</c> +{0:tooltip} rad/s
+Petal/Attribute/Heal=<c val="#ff94c9">Hồi phục:</c> {0:tooltip}
+Petal/Attribute/HealPerSecond=<c val="#ff94c9">Hồi phục:</c> {0:tooltip}/s
+Petal/Attribute/HealPerc=<c val="#ff94c9">Hồi phục:</c> {0:perc}%
+Petal/Attribute/Poison=<c val="#ce76db">Độc:</c> {0:tooltip} ({1:tooltip}/s)
+Petal/Attribute/PoisonPerSecond=<c val="#ce76db">Độc:</c> {0:tooltip}/s
+Petal/Attribute/PoisonResistance=<c val="#ce76db">Kháng độc:</c> {0:tooltip}/s
+Petal/Attribute/FlowerHealth=<c val="#66FF66">HP:</c> {0:tooltip}
+Petal/Attribute/FlowerHealthPerc=<c val="#66FF66">HP:</c> +{0:perc}%
+Petal/Attribute/Duration=<c val="#6666FF">Thời hạn:</c> {0:tooltipTime}
+Petal/Attribute/Contents={#Petal/Attribute/Contents{0:1orN}}
+Petal/Attribute/Contents1=<c val="#d2eb34">Contents:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
+Petal/Attribute/ContentsN=<c val="#d2eb34">Contents:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
+Petal/Attribute/ExtraVision=<c val="#d2eb34">Tầm nhìn thêm:</c> {0:perc}%
+Petal/Attribute/Radius=<c val="#d2eb34">Bán kính:</c> {0:tooltip}
+Petal/Attribute/MaxMobRarity=<c val="#d2eb34">Độ hiếm kẻ địch cao nhất:</c> {#Rarities/{0}/NameColored}
+Petal/Attribute/DamageReflection=<c val="#999999">Phản sát thương:</c> {0:perc}% (lên {#Rarities/{2}/NameColored} kẻ địch), {1:perc}% (lên bông hoa)
+Petal/Attribute/PickUpRange=<c val="#d2eb34">Phạm vi nhặt:</c> +{0:tooltip}
+Petal/Attribute/Lightning=<c val="#36ffe7">Điện:</c> {0:tooltip}
+Petal/Attribute/Bounces=<c val="#d2eb34">Nảy:</c> {0:tooltip}
+Petal/Attribute/Knockback=<c val="#d2eb34">Đẩy lùi:</c> {0:tooltip}
+Petal/Attribute/ExtraDamage=<c val="#FF6666">Sát thương thêm:</c> {0:tooltip}
+Petal/Attribute/Shield=<c val="#d2eb34">Khiên:</c> {0:tooltip}
+Petal/Attribute/BodyDamage=<c val="#FF6666">Sát thương cơ thể:</c> {0:tooltip}
+Petal/Attribute/Period=<c val="#d2eb34">Chu kỳ:</c> {0:tooltipTime}
+Petal/Attribute/FlowerRadius=<c val="#d2eb34">Bán kính hoa:</c> +{0:tooltip}
+Petal/Attribute/DamageHealed=<c val="#ff94c9">Sát thương hồi phục:</c> {0:perc}%
+Petal/Attribute/AttackRange=<c val="#d2eb34">Phạm vi tấn công:</c> +{0:tooltip}
+Petal/Attribute/Spawn={#Petal/Attribute/Spawn{0:1orN}}
+Petal/Attribute/Spawn1=<c val="#d2eb34">Nở:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
+Petal/Attribute/SpawnN=<c val="#d2eb34">Nở:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
+Petal/Attribute/Luck=<c val="#d2eb34">May mắn:</c> +{0:tooltip}
+Petal/Attribute/MovementSpeed=<c val="#d2eb34">Tốc độ di chuyển:</c> +{0:perc}%
+Petal/Attribute/HealBonus=<c val="#ff94c9">Hồi phục thêm:</c> +{0:perc}%
+Petal/Attribute/MobAggroRange=<c val="#d2eb34">Phạm vi gây hấn:</c> -{0:perc}%
+Petal/Attribute/FlowerKnockback=<c val="#d2eb34">Đẩy lùi của hoa:</c> +{0:tooltip}
+Petal/Attribute/SelfDamage=<c val="#FF6666">Sát thương lên bản thân:</c> {0:tooltip}
+Petal/Attribute/ArmorDebuff=<c val="#666666">Giảm giáp:</c> {0:tooltip}
+Petal/Attribute/FlowerArmor=<c val="#666666">Giáp của hoa:</c> {0:tooltip}
+Petal/Attribute/FlowerEvasion=<c val="#d2eb34">Tránh né:</c> +{0:perc}%
+Petal/Attribute/Charges=<c val="#d2eb34">Phóng điện:</c> {0:tooltip}
+Petal/Attribute/OverhealConversion=<c val="#d2eb34">Lượng chuyển đổi hồi phục dư thừa:</c> +{0:perc}%
+Petal/Attribute/AffectedByMagnets=<c val="#d2eb34">Bị ảnh hưởng bởi nam châm</c>
+Petal/Attribute/CanFindSquares=<c val="#d2eb34">Có thể tìm thấy thứ không thuộc về</c>
+Petal/Attribute/CollisionDamageResistance=<c val="#d2eb34">Kháng sát thương va chạm:</c> +{0:perc}%
+Petal/Attribute/Evasion=<c val="#d2eb34">Né tránh:</c> {0:perc}%
+Petal/Attribute/Health4=<c val="#66FF66">Máu:</c> {0:tooltip} / {1:tooltip} / {2:tooltip} / {3:tooltip}
+Petal/Attribute/Damage4=<c val="#FF6666">Sát thương:</c> {0:tooltip} / {1:tooltip} / {2:tooltip} / {3:tooltip}
+Petal/Attribute/ExtraPoison=<c val="#ce76db">Độc thêm:</c> {0:tooltip}s
+Petal/Attribute/Interval=<c val="#d2eb34">Khoảng thời gian:</c> {0:tooltipTime}
+Petal/Attribute/CorruptsFlowersAround=<c val="#d2eb34">Làm ô uế nhưng bông hoa xung quanh.</c>
+Petal/Attribute/CannotBeUnequipped=<c val="#d2eb34">Không thể tháo.</c>
+Petal/Attribute/PetalLostOnDeath=<c val="#FF3333">Cánh hoa sẽ mất khi chết.</c>
+Petal/Attribute/CannotBeUnequippedWhileAlive=<c val="#d2eb34">Không thể tháo khi sống.</c>
+Petal/Attribute/Mana=<c val="#42e3f5">Năng lượng:</c> {0:tooltip}
+Petal/Attribute/ManaPerSecond=<c val="#42e3f5">Năng lượng:</c> {0:tooltip}/s
+Petal/Attribute/BaseMaxMana=<c val="#42e3f5">Lượng năng lương cơ bản tối đa:</c> {0:tooltip}
+Petal/Attribute/MaxMana=<c val="#42e3f5">Lượng năng lượng tối đa:</c> +{0:tooltip}
+Petal/Attribute/AllowsFindingMagicPetals=<c val="#42e3f5">Có thể tìm những cánh hoa phép.</c>
+Petal/Attribute/DamageAbsorptionPerMana=<c val="#d2eb34">Sát thương hấp thụ:</c> {0:tooltip}/<c val="#42e3f5">năng lượng</c>
+Petal/Attribute/LightningPerMana=<c val="#36ffe7">Điện:</c> {0:tooltip}/<c val="#42e3f5">năng lượng</c>
+Petal/Attribute/SpawnManaCost=<c val="#d2eb34">Chi phí nở:</c> {0:tooltip} <c val="#42e3f5">năng lượng</c>
+Petal/Attribute/MaintenanceManaCost=<c val="#d2eb34">Chi phí duy trì:</c> {0:tooltip} <c val="#42e3f5">năng lượng</c>/s

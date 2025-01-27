@@ -1,0 +1,84 @@
+Mobs/AnnouncementPrefix={#Rarities/{0:rarity}/ArticleUpper} {#Rarities/{0:rarity}/Name} {#Mobs/{0:base}/Name}
+Petals/AnnouncementPrefix={#Rarities/{0:rarity}/ArticleUpper} {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/FullName}
+
+Chat/PetalCraftedUnnamed={#Chat/PetalCraftedUnnamed/{0:rarity:is-unique}}
+Chat/PetalCraftedNamed={#Chat/PetalCraftedNamed/{0:rarity:is-unique}}
+Chat/PetalCraftedUnnamed/unique=Một {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/FullName} vừa được rèn!
+Chat/PetalCraftedNamed/unique=Một {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/FullName} vừa được rèn bởi {1}!
+Chat/PetalCraftedUnnamed/not-unique={#Petals/AnnouncementPrefix:0} vừa được chế tạo!
+Chat/PetalCraftedNamed/not-unique={#Petals/AnnouncementPrefix:0} vừa được chế tạo bởi {1}!
+
+Chat/MobSpawnedHere={#Mobs/{0:base}/Spawn#Chat/MobSpawnedHere/Text}
+Chat/MobSpawnedSomewhere={#Mobs/{0:base}/Spawn#Chat/MobSpawnedSomewhere/Text}
+
+Chat/MobSpawnedHere/Text={#Mobs/AnnouncementPrefix:0} vừa sinh ra!
+Chat/MobSpawnedSomewhere/Text={#Mobs/AnnouncementPrefix:0} vừa sinh ra ở đâu đó!
+
+Chat/MobDefeated={#Chat/MobDefeated/{1}}
+Chat/MobDefeated/0={#Mobs/AnnouncementPrefix:0} vừa bị đánh bại!
+Chat/MobDefeated/1={#Mobs/AnnouncementPrefix:0} vừa bị đánh bại bởi {2}!
+Chat/MobDefeated/2={#Mobs/AnnouncementPrefix:0} vừa bị đánh bại bởi {2} và {3}!
+Chat/MobDefeated/3={#Mobs/AnnouncementPrefix:0} vừa bị đánh bại bởi {2}, {3} và {4}!
+Chat/MobDefeated/4={#Mobs/AnnouncementPrefix:0} vừa bị đánh bại bởi {2}, {3}, {4} và {5}!
+
+Chat/Revived=Bạn đã được cứu bởi {0}.
+Chat/Marked=Bạn đã bị đánh dấu bởi {0}.
+
+Chat/Muted=Bạn không được phép trò chuyện ngay bây giờ vì những tin nhắn không phù hợp trước đó.<n/>Bạn sẽ có thể trò chuyện lại {0:timeLeft}.
+Chat/Spam=Bạn đang làm nó quá nhiều lần.
+Chat/Alone=Không ai ở xung quanh nghe thấy bạn cả.
+Chat/Banned=Bạn đang bị cấm chơi.
+Chat/NegativeStars=Thanh toán của bạn cho các ngôi sao đã được hoàn trả, bạn không thể chơi khi số dư của bạn âm.
+Chat/BadChannel=Bạn không thể làm điều đó.
+Chat/SquadChannelNotInSquad=Không ở trong đội.
+Chat/GuildChannelNotInGuild=Không ở trong hội.
+Chat/GuildChannelDisabled=Bạn đã tắt tin nhắn hội.
+Chat/GuestTooChatty=Xin lỗi, tài khoản khách có quyền trò chuyện hạn chế cho đến khi họ đạt cấp độ {0}.
+Chat/PlayerReported=Đã báo cáo người chơi.
+Chat/PlayerBlocked={0} vừa bị chặn.
+Chat/ServerClosing=Máy chủ được lên lịch đóng {0:timeLeft}.
+Chat/ServerClosed=Máy chủ đã đóng, đến lúc rời rồi.
+Chat/ServerNoLongerClosing=Máy chủ không còn được lên lịch đóng nữa.
+
+Chat/Channel/Local=Gần
+Chat/Channel/Squad=Đội
+Chat/Channel/Guild=Hội
+Chat/Channel/Whisper=Thì thầm
+Chat/Channel/WhisperTo=@{0}
+Chat/Channel/Map=Khu vực
+Chat/Channel/Global=Toàn cầu
+
+Chat/Guild/PlayerJoined={0} vừa tham gia hội.
+Chat/Guild/PlayerLeft={0} vừa rời hội.
+Chat/Guild/NewLeader={0} là thủ lĩnh mới của hội!
+
+Chat/Command/Invalid=Lệnh không hợp lệ, gõ /help để liệt kê tất cả các lệnh.
+Chat/Command/SpaceError=Không được có bất kì khoảng trắng nào sau /.
+Chat/Command/EmptyMessage=Tin nhắn không được trống.
+Chat/Command/InvalidNumArguments=Số lượng đối số không hợp lệ.
+Chat/Command/VeryInvalidSquadCode=Trông không giống mã đội.
+Chat/Command/BlockedPlayerNotFound=Không có người chơi đó trong danh sách chặn của bạn.
+Chat/Command/NoBlockedPlayers=Không có người chơi nào bị chặn hiện tại.
+Chat/Command/BlockListCleared=Xóa {0} người chơi khỏi danh sách chặn.
+Chat/Command/NotInSquad=Không ở trong đội.
+Chat/Command/MustHaveFlower=Phải có một bông hoa để làm điều này.
+Chat/Command/NoFlowersClose=Không có bông hoa nào ở gần bạn.
+Chat/Command/InvalidValue=Giá trị không hợp lệ.
+Chat/Command/InvalidBooleanArgument=Đối số Boolean phải là y hoặc n.
+Chat/Command/InvalidNumberArgument=Đối số số phải là số hợp lệ.
+Chat/Command/InvalidMobTypeArgument=Loại quái không hợp lệ.
+Chat/Command/InvalidMobRarityArgument=Độ hiếm của quái không hợp lệ.
+Chat/Command/InvalidMap=Khu vực không hợp lệ.
+Chat/Command/AccountNotLoaded=Tài khoản chưa được tải.
+Chat/Command/TargetEmpty=Mục tiêu không được để trống.
+Chat/Command/TargetDisconnected=Mục tiêu đã bị ngắt kết nối.
+Chat/Command/TargetNotFound=Không tìm thấy mục tiêu.
+Chat/Command/TargetMustHaveFlower=Mục tiêu không có bông hoa.
+Chat/Command/InternalError=Lỗi nội bộ.
+Chat/Command/InvalidPetalArgument=ID cánh hoa không hợp lệ.
+Chat/Command/InvalidWhisperTarget=Mục tiêu không hợp lệ.
+Chat/Command/WhisperTargetNotFound=Không tìm thấy mục tiêu.
+Chat/Command/WhisperTargetNotConnected=Mục tiêu không được kết nối.
+Chat/Command/WhisperSelf=Bạn có thể giữ những suy nghĩ đó trong đầu.
+Chat/Command/GuestsCannotSendWhispers=Khách không thể gửi lời thì thầm.
+Chat/Command/GuestsCannotReceiveWhispers=Khách không thể nhận được lời thì thầm.

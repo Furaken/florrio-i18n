@@ -1,0 +1,125 @@
+UI/Language/Name=Tiếng Việt (VIE)
+
+UI/Time/1day=1 ngày
+UI/Time/Ndays={0} ngày
+UI/Time/Nhours={0} giờ
+UI/Time/1minute=1 phút
+UI/Time/Nminutes={0} phút
+UI/Time/1second=1 giây
+UI/Time/Nseconds={0} giây
+UI/Time/Now=Ngay lập tức
+
+UI/TooltipTime/1day=1 ngày
+UI/TooltipTime/Ndays={0:tooltip} ngày
+UI/TooltipTime/Nhours={0:tooltip} giờ
+UI/TooltipTime/1minute=1 phút
+UI/TooltipTime/Nminutes={0:tooltip} phút
+UI/TooltipTime/1second=1 giây
+UI/TooltipTime/Nseconds={0:tooltip} giây
+UI/TooltipTime/Now=Ngay lập tức
+
+UI/TimeLeft/1day=trong 1 ngày
+UI/TimeLeft/Ndays=trong {0} ngày
+UI/TimeLeft/Nhours=trong {0} giờ
+UI/TimeLeft/1minute=trong 1 phút
+UI/TimeLeft/Nminutes=trong {0} phút
+UI/TimeLeft/1second=trong 1 giây
+UI/TimeLeft/Nseconds=trong {0} giây
+UI/TimeLeft/Now=Ngay bây giờ
+
+UI/Title/Loading=Đang tải...
+UI/Title/Connecting=Đang kết nối...
+UI/Title/LoggingIn=Đang đăng nhập...
+
+UI/Login/PlayAsGuest=Chơi với tư cách là khách
+UI/Login/SignInApple=Đăng nhập bằng tài khoản Apple
+UI/Login/SignInDiscord=Đăng nhập bằng tài khoản Discord
+UI/Login/Logout=Đăng xuất
+UI/Login/AccountID=ID Tài khoản:
+UI/Login/Connecting=(đang tải)
+UI/Login/GuestName=Khách
+UI/Login/GuestInfo=Nếu bạn đã có tài khoản khách trên thiết bị này,<n/>đăng nhập vào sẽ liên kết tài khoản đó và vẫn sẽ lưu tiến trình của bạn.
+UI/Login/LinkInfo=Bạn có thể liên kết tài khoản của bạn để<n/>lưu tiến trình của bạn.
+UI/Login/Linked=Đã liên kết
+UI/Login/SupportPIN=PIN hỗ trợ: {0}
+UI/Login/SupportPINHidden=PIN hỗ trợ: (nhấn để hiển thị)
+UI/Login/SupportPINInstruction1=Lưu mã này phòng khi bạn mất truy cập
+UI/Login/SupportPINInstruction2=Đừng chia sẽ mã PIN hỗ trợ với bất kì again
+UI/Login/Reminder=Liên kết tài khoản để lưu tiến trình
+
+UI/Premium/MustLink1=Để thực hiện dịch vụ mua hàng, trước tiên bạn cần
+UI/Premium/MustLink2=liên kết tài khoản với Discord hoặc Apple.
+
+UI/Achievement/Reward=Phần thưởng
+UI/Achievement/RewardTP={0} TP
+UI/Achievement/Done=Đã hoàn thành
+UI/Achievement/Track=Theo dõi
+UI/Achievement/TrackAutomatically=Tự động theo dõi
+UI/Achievement/Hidden=???
+UI/Achievement/TotalProgress=Đã hoàn thành {0}/{1}
+
+UI/Petal/Name={#Petals/{0:base}/Name}
+UI/Petal/FullName={#Petals/{0:base}/FullName}
+UI/Petal/Description={#Petals/{0:base}/Description}
+UI/Petal/Rarity={#Rarities/{0:rarity}/Name}
+
+UI/Mob/Name={#Mobs/{0:base}/Name}
+UI/Mob/Description={#Mobs/{0:base}/Description}
+UI/Mob/Rarity={#Rarities/{0:rarity}/Name}
+
+UI/Talent/Rarity={#Rarities/{0}/Name}
+
+UI/Craft/Title=Chế tạo
+UI/Craft/Button=Chế tạo
+UI/Craft/Chance={0:perc}% xác suất thành công
+UI/Craft/UnknownChance=?% xác suất thành công
+UI/Craft/CombineInstruction=Kết hợp {0} cánh hoa cùng loại để nâng cấp
+UI/Craft/FailureInstruction=Thất bại sẽ làm hỏng {0}-{1} cánh hoa
+
+UI/Absorb/Title=Hấp thụ
+UI/Absorb/Button=Hấp thụ
+UI/Absorb/Instruction=Hấp thụ những cánh hoa để tăng XP<n/><c val="#FF6666">CẢNH BÁO: Những cánh hoa sẽ bị phá hủy trong quá trình này</c>
+
+UI/CoinCraft/Title=Trao đổi
+UI/CoinCraft/Button=Trao đổi
+UI/CoinCraft/Instruction=Bạn có thể đổi một cánh hoa cho một đồng cùng độ hiếm
+UI/CoinCraft/Delay=Bạn có thể đổi lần nữa trong {0:timeLeft}
+
+UI/OracleCraft/Title=Tiên tri
+UI/OracleCraft/Button=Chế tạo
+UI/OracleCraft/Instruction=Nhà tiên tri sẽ đảm bảo cho một lần chế tạo... với mức giá phù hợp.
+UI/OracleCraft/Delay=Bạn có thể chế tạo lần nữa trong {0:timeLeft}
+
+UI/Plinko/Title=Plinko
+UI/Plinko/Auto=Tự động
+
+UI/UniqueCraft/Title=Rèn
+UI/UniqueCraft/Button=Rèn
+UI/UniqueCraft/Instruction=Những cánh hoa Độc quyền sẽ tồn tại cho đến khi người chơi khác rèn một cánh hoa cùng loại.<n/>Khi điều đó xảy ra, bạn sẽ nhận lại được những cánh hoa Siêu Đẳng.<n/>Chi phí rèn sẽ tăng cho mỗi lần rèn loại cánh hoa đó.
+UI/UniqueCraft/NoSupers=Bạn không có bất kì cánh hoa Siêu Đẳng nào để chế tạo.
+
+UI/Death/Poison=Ngộ độc
+
+UI/Attribute/Health=Máu
+UI/Attribute/HealthColored=<c val="#66FF66">{#UI/Attribute/Health}</c>
+
+UI/Attribute/FlowerHealth=Máu hoa
+UI/Attribute/FlowerHealthColored=<c val="#66FF66">{#UI/Attribute/FlowerHealth}</c>
+
+UI/Attribute/BodyDamage=Sát thương cơ thể
+UI/Attribute/BodyDamageColored=<c val="#FF6666">{#UI/Attribute/BodyDamage}</c>
+
+UI/Attribute/Poison=Độc
+UI/Attribute/PoisonColored=<c val="#ce76db">{#UI/Attribute/Poison}</c>
+
+UI/Attribute/Luck=May mắn
+UI/Attribute/LuckColored=<c val="#d2eb34">{#UI/Attribute/Luck}</c>
+
+UI/Attribute/Healing=Hồi phục
+UI/Attribute/HealingColored=<c val="#ff94c9">{#UI/Attribute/Healing}</c>
+
+UI/Attribute/RotationSpeed=Tốc độ quay
+UI/Attribute/RotationSpeedColored=<c val="#d2eb34">{#UI/Attribute/RotationSpeed}</c>
+
+UI/Attribute/AttackRange=Phạm vi tấn công
+UI/Attribute/AttackRangeColored=<c val="#d2eb34">{#UI/Attribute/AttackRange}</c>

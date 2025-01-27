@@ -1,0 +1,7 @@
+Tutorial/Start=<s val="1.5">Hướng dẫn</s><n/><n/>Bạn trông có vẻ mới chơi, hãy cùng học những điều cơ bản nhé.<n/>Nhấn SẴN SÀNG để bắt đầu.
+Tutorial/End=<s val="1.5">Hướng dẫn</s><n/><n/>Tốt lắm! Nhớ sử dụng kho đồ để trang bị hoặc tháo những cánh hoa.<n/>Bạn có thể nhấn một cánh hoa để trang bị/tháo nó.<n/><n/>Cứ tiếp tục mở rộng bộ sưu tập những cánh hoa nhé, chúc may mắn!
+Tutorial/MustBeAlive=Bạn phải còn sống để tiếp tục phần hướng dẫn.
+Tutorial/MustBeInGame=Bạn phải vào game ở phần này, nhấn vào nút SẴN SÀNG màu xanh.
+Tutorial/MustLeaveGame=Để tiếp tục, thoát khỏi trò chơi này bằng cách nhấn nào nút thoát ở phía trên cùng bên trái.
+Tutorial/Next=Tiếp
+Tutorial/Done=Hoàn thành
