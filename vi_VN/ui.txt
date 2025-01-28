@@ -82,7 +82,11 @@ UI/Mob/Rarity={#Rarities/{0:rarity}/Name}
 
 UI/Map/Name={#Maps/{0}/Name}
 
+UI/Talent/Title=Thiên phú
 UI/Talent/Rarity={#Rarities/{0}/Name}
+UI/Talent/TP=TP
+UI/Talent/Tooltip=Bạn có thể giành được nhiều TP hơn bằng cách thăng cấp
+UI/Talent/Reset=Đặt lại
 
 UI/Craft/Title=Chế tạo
 UI/Craft/Button=Chế tạo
@@ -93,7 +97,7 @@ UI/Craft/FailureInstructions=Thất bại sẽ làm hỏng {0}-{1} cánh hoa
 
 UI/Absorb/Title=Hấp thụ
 UI/Absorb/Button=Hấp thụ
-UI/Absorb/Instructions=Hấp thụ những cánh hoa để tăng XP<n/><c val="#FF6666">CẢNH BÁO: Những cánh hoa sẽ bị phá hủy trong quá trình này</c>
+UI/Absorb/Instructions=Hấp thụ những cánh hoa để tăng XP<n/><c val="{#Colors/danger}">CẢNH BÁO: Những cánh hoa sẽ bị phá hủy trong quá trình này</c>
 
 UI/CoinCraft/Title=Trao đổi
 UI/CoinCraft/Button=Trao đổi
@@ -114,27 +118,3 @@ UI/UniqueCraft/Instructions=Những cánh hoa Độc quyền sẽ tồn tại ch
 UI/UniqueCraft/NoSupers=Bạn không có bất kì cánh hoa Siêu Đẳng nào để chế tạo.
 
 UI/Death/Poison=Ngộ độc
-
-UI/Attribute/Health=Máu
-UI/Attribute/HealthColored=<c val="#66FF66">{#UI/Attribute/Health}</c>
-
-UI/Attribute/FlowerHealth=Máu hoa
-UI/Attribute/FlowerHealthColored=<c val="#66FF66">{#UI/Attribute/FlowerHealth}</c>
-
-UI/Attribute/BodyDamage=Sát thương cơ thể
-UI/Attribute/BodyDamageColored=<c val="#FF6666">{#UI/Attribute/BodyDamage}</c>
-
-UI/Attribute/Poison=Độc
-UI/Attribute/PoisonColored=<c val="#ce76db">{#UI/Attribute/Poison}</c>
-
-UI/Attribute/Luck=May mắn
-UI/Attribute/LuckColored=<c val="#d2eb34">{#UI/Attribute/Luck}</c>
-
-UI/Attribute/Healing=Hồi phục
-UI/Attribute/HealingColored=<c val="#ff94c9">{#UI/Attribute/Healing}</c>
-
-UI/Attribute/RotationSpeed=Tốc độ quay
-UI/Attribute/RotationSpeedColored=<c val="#d2eb34">{#UI/Attribute/RotationSpeed}</c>
-
-UI/Attribute/AttackRange=Phạm vi tấn công
-UI/Attribute/AttackRangeColored=<c val="#d2eb34">{#UI/Attribute/AttackRange}</c>

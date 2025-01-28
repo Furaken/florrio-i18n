@@ -394,3 +394,33 @@ Achievements/127/Description=Tiêu diệt {0} quái vật {#Rarities/{1}/Name}+ 
 
 Achievements/128/Name=Phục thù
 Achievements/128/Description=Tiêu diệt quái vật đã giết bạn.
+
+Achievements/129/Name=Phục thù
+Achievements/129/Description=Tiêu diệt quái vật đã giết bạn trong vòng {0:time} sau khi bạn chết.
+
+Achievements/130/Name=Trao đổi
+Achievements/130/Description=Lấy được một {#Petals/{0:base}/Name} thông qua việc trao đổi.
+
+Achievements/131/Name=Trao đổi
+Achievements/131/Description=Lấy được {#Rarities/{0:rarity}/Article} {#Petals/{0:base}/Name} {#Rarities/{0:rarity}/Name} thông qua việc trao đổi.
+
+Achievements/132/Name=Trao đổi
+Achievements/132/Description=Lấy được {#Rarities/{0:rarity}/Article} {#Petals/{0:base}/Name} {#Rarities/{0:rarity}/Name} thông qua việc trao đổi.
+
+Achievements/133/Name=Con bạc
+Achievements/133/Description=Nhét {0} Phỉnh vào trong Plinko.
+
+Achievements/134/Name=JACKPOT!
+Achievements/134/Description=Giành được giải thưởng lớn nhất ở trong Plinko.
+
+Achievements/135/Name=Đại gia
+Achievements/135/Description=Nhét {#Rarities/{0:rarity}/Article} {#Petals/{0:base}/Name} {#Rarities/{0:rarity}/Name} vào trong Plinko.
+
+Achievements/136/Name=Đấng toàn tri
+Achievements/136/Description=Tạo nên một cánh hoa nhờ tri thức từ Nhà tiên tri.
+
+Achievements/137/Name=Định mệnh
+Achievements/137/Description=Chế tạo {#Rarities/{0}/Article} cánh hoa {#Rarities/{0}/Name}+ nhờ tri thức từ Nhà tiên tri.
+
+Achievements/138/Name=Pháp sư
+Achievements/138/Description=Trang bị một {#Petals/{0}/Name}.

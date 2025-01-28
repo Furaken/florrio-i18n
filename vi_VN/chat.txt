@@ -3,8 +3,8 @@ Petals/AnnouncementPrefix={#Rarities/{0:rarity}/ArticleUpper} {#Petals/{0:base}/
 
 Chat/PetalCraftedUnnamed={#Chat/PetalCraftedUnnamed/{0:rarity:is-unique}}
 Chat/PetalCraftedNamed={#Chat/PetalCraftedNamed/{0:rarity:is-unique}}
-Chat/PetalCraftedUnnamed/unique=Một {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/FullName} vừa được rèn!
-Chat/PetalCraftedNamed/unique=Một {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/FullName} vừa được rèn bởi {1}!
+Chat/PetalCraftedUnnamed/unique={#Petals/AnnouncementPrefix:0} vừa được rèn!
+Chat/PetalCraftedNamed/unique={#Petals/AnnouncementPrefix:0} vừa được rèn bởi {1}!
 Chat/PetalCraftedUnnamed/not-unique={#Petals/AnnouncementPrefix:0} vừa được chế tạo!
 Chat/PetalCraftedNamed/not-unique={#Petals/AnnouncementPrefix:0} vừa được chế tạo bởi {1}!
 
@@ -82,3 +82,4 @@ Chat/CommandError/WhisperTargetNotConnected=Mục tiêu không được kết n�
 Chat/CommandError/WhisperSelf=Bạn có thể giữ những suy nghĩ đó trong đầu.
 Chat/CommandError/GuestsCannotSendWhispers=Khách không thể gửi lời thì thầm.
 Chat/CommandError/GuestsCannotReceiveWhispers=Khách không thể nhận được lời thì thầm.
+Chat/CommandError/WhispersDisabled=Bạn không thể gửi tin nhắn thì thầm nếu bạn đã tắt nó ở trong cài đặt.
