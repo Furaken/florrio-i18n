@@ -175,7 +175,7 @@ Petals/peas/FullName=Đậu
 Petals/peas/Description=Bùm.
 
 Petals/stick/Name=Gậy
-Petals/stick/FullName=Cây Gậy Huyền bí
+Petals/stick/FullName=Gậy Huyền bí
 Petals/stick/Description=Một cây gậy bí ẩn có thể triệu hồi sức mạnh của gió.
 
 Petals/clover/Name=Cỏ May Mắn
@@ -351,7 +351,7 @@ Petals/magic_missile/FullName=Tên Lửa Phép
 Petals/magic_missile/Description=Được ểm phép và có thể phóng.
 
 Petals/magic_stick/Name=Gậy
-Petals/magic_stick/FullName=Cây Gậy Phép
+Petals/magic_stick/FullName=Gậy Phép
 Petals/magic_stick/Description=Một cây gậy bí ẩn có thể triệu hồi sức mạnh của gió... bằng phép thuật.
 
 Petals/coral/Name=San Hô
