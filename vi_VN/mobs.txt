@@ -47,12 +47,12 @@ Mobs/centipede_evil_body/Name=Rết
 Mobs/centipede_evil_body/Description=Con này rất thích hoa.
 
 Mobs/centipede_desert/Name=Rết
-Mobs/centipede_desert/Description=Gotta go fast.
+Mobs/centipede_desert/Description=Chạy ngay đi...
 
 Mobs/centipede_desert_body/Name=Rết
-Mobs/centipede_desert_body/Description=Gotta go fast.
+Mobs/centipede_desert_body/Description=Chạy ngay đi...
 
-Mobs/square/Name=Hình vuông
+Mobs/square/Name=Vuông
 Mobs/square/Description=Hình dạng này... nhìn quen quá...
 
 Mobs/ladybug_dark/Name=Bọ rùa
@@ -80,10 +80,10 @@ Mobs/bubble/Name=Bong bóng
 Mobs/bubble/Description=Pop
 
 Mobs/bumble_bee/Name=Ong nghệ
-Mobs/bumble_bee/Description=GOTTA RUN.
+Mobs/bumble_bee/Description=CHẠY NGAY ĐI.
 
 Mobs/shell/Name=Vỏ sò
-Mobs/shell/Description=Không phải là quảng cáo đâu.
+Mobs/shell/Description=Đây không phải là chương trình quảng cáo.
 
 Mobs/starfish/Name=Sao biển
 Mobs/starfish/Description=Tên của nó là Patrick.
@@ -110,13 +110,13 @@ Mobs/leech_body/Description=Slurp slurp.
 Mobs/dandelion/Name=Bồ công anh
 Mobs/dandelion/Description=Mềm mại.
 
-Mobs/fire_ant_baby/Name=Kiến con lửa
+Mobs/fire_ant_baby/Name=Kiến lửa con
 Mobs/fire_ant_baby/Description=Con kiến này đang bùng cháyyyyyyyy.
 
-Mobs/fire_ant_worker/Name=Kiến thợ lửa
+Mobs/fire_ant_worker/Name=Kiến lửa thợ
 Mobs/fire_ant_worker/Description=Con kiến này đang bùng cháyyyyyyyy.
 
-Mobs/fire_ant_queen/Name=Kiến chúa lửa
+Mobs/fire_ant_queen/Name=Kiến lửa chúa
 Mobs/fire_ant_queen/Description=Con kiến này đang bùng cháyyyyyyyy.
 
 Mobs/ant_egg/Name=Trứng kiến
@@ -129,7 +129,7 @@ Mobs/fly/Name=Ruồi
 Mobs/fly/Description=Hzzzzzzzzzzzz.
 
 Mobs/leafbug/Name=Bọ lá
-Mobs/leafbug/Description=Không phải lá, nhưng là bọ.
+Mobs/leafbug/Description=Con này là bọ, chứ không phải lá.
 
 Mobs/mantis/Name=Bọ ngựa
 Mobs/mantis/Description=Tốt nhất là cầu nguyện bạn không trở thành bữa tối.
@@ -163,7 +163,7 @@ Mobs/moth/Description=Dễ bị hoảng sợ, hãy tử tế.
 
 Mobs/firefly/Name=Đom đóm
 Mobs/firefly/Description=Ồ... phát sáng.
-Mobs/firefly/Spawn=Có một ánh sáng rực rỡ ở chân trời...
+Mobs/firefly/Spawn=Có một ánh sáng rực rỡ ở phía chân trời...
 
 Mobs/beetle_hel/Name=Bọ cánh cứng
 Mobs/beetle_hel/Description=Một tai họa xuất hiện từ cõi khác.
@@ -196,3 +196,28 @@ Mobs/trader/Name=Thương nhân
 Mobs/gambler/Name=Con bạc
 Mobs/gambler/Description=Điều này có thể xảy ra với BẠN.
 Mobs/gambler/Spawn=Một kẻ nguy hiểm xuất hiện...
+
+Mobs/oracle/Name=Tiên tri
+
+Mobs/firefly_magic/Name=Đom đóm
+Mobs/firefly_magic/Description=Có điều gì đó kỳ diệu trong con này.
+
+Mobs/titan/Name=Titan
+
+Mobs/beetle_nazar/Name=Bọ cánh cứng
+Mobs/beetle_nazar/Description=Con này có một hoa văn kì lạ... không biết có gì trong đó nhỉ?
+
+Mobs/worm/Name=Giun
+Mobs/worm/Description=Được sinh ra để ăn đất, nhưng con này có vẻ thích ăn hoa hơn.
+
+Mobs/worm_guts/Name=Ruột giun
+Mobs/worm_guts/Description=Bạn không được phép nhìn thấy văn bản này. Tôi sẽ báo chính quyền.
+
+Mobs/mecha_flower/Name=Hoa máy
+Mobs/mecha_flower/Description=Có người đã làm ra những bông hoa cơ khí này... Bạn nghĩ là ai?
+
+Mobs/wasp_mecha/Name=Ong bắp cày
+Mobs/wasp_mecha/Description=Chúng đang TỨC GIẬN, BEEP BEEP.
+
+Mobs/spider_mecha/Name=Nhện
+Mobs/spider_mecha/Description=Một con nhện máy đáng sợ.
