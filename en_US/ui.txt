@@ -1,75 +1,75 @@
-UI/Language/Name=English (US)
+UI/Language/Name=Tiếng Việt (VIE)
 
-UI/Time/1day=1 day
-UI/Time/Ndays={0} days
-UI/Time/Nhours={0} hours
-UI/Time/1minute=1 minute
-UI/Time/Nminutes={0} minutes
-UI/Time/1second=1 second
-UI/Time/Nseconds={0} seconds
-UI/Time/Now=immediately
+UI/Time/1day=1 ngày
+UI/Time/Ndays={0} ngày
+UI/Time/Nhours={0} giờ
+UI/Time/1minute=1 phút
+UI/Time/Nminutes={0} phút
+UI/Time/1second=1 giây
+UI/Time/Nseconds={0} giây
+UI/Time/Now=Ngay lập tức
 
-UI/TooltipTime/1day=1 day
-UI/TooltipTime/Ndays={0:tooltip} days
-UI/TooltipTime/Nhours={0:tooltip} hours
-UI/TooltipTime/1minute=1 minute
-UI/TooltipTime/Nminutes={0:tooltip} minutes
-UI/TooltipTime/1second=1 second
-UI/TooltipTime/Nseconds={0:tooltip} seconds
-UI/TooltipTime/Now=immediately
+UI/TooltipTime/1day=1 ngày
+UI/TooltipTime/Ndays={0:tooltip} ngày
+UI/TooltipTime/Nhours={0:tooltip} giờ
+UI/TooltipTime/1minute=1 phút
+UI/TooltipTime/Nminutes={0:tooltip} phút
+UI/TooltipTime/1second=1 giây
+UI/TooltipTime/Nseconds={0:tooltip} giây
+UI/TooltipTime/Now=Ngay lập tức
 
-UI/TimeLeft/1day=in 1 day
-UI/TimeLeft/Ndays=in {0} days
-UI/TimeLeft/Nhours=in {0} hours
-UI/TimeLeft/1minute=in 1 minute
-UI/TimeLeft/Nminutes=in {0} minutes
-UI/TimeLeft/1second=in 1 second
-UI/TimeLeft/Nseconds=in {0} seconds
-UI/TimeLeft/Now=any second now
+UI/TimeLeft/1day=trong 1 ngày
+UI/TimeLeft/Ndays=trong {0} ngày
+UI/TimeLeft/Nhours=trong {0} giờ
+UI/TimeLeft/1minute=trong 1 phút
+UI/TimeLeft/Nminutes=trong {0} phút
+UI/TimeLeft/1second=trong 1 giây
+UI/TimeLeft/Nseconds=trong {0} giây
+UI/TimeLeft/Now=Ngay bây giờ
 
-UI/Title/Loading=Loading...
-UI/Title/Connecting=Connecting...
-UI/Title/LoggingIn=Logging in...
-UI/Title/Ready=Ready
-UI/Title/GuestName=Guest
-UI/Title/GuestLimitation=You can choose a nickname once you link an account or get level {0}.
+UI/Title/Loading=Đang tải...
+UI/Title/Connecting=Đang kết nối...
+UI/Title/LoggingIn=Đang đăng nhập...
+UI/Title/Ready=Sẵn sàng
+UI/Title/GuestName=Khách
+UI/Title/GuestLimitation=Bạn có thể sử dụng nickname khi bạn đã liên kết tài khoản hoặc đạt đến cấp độ {0}.
 
 UI/Title/Biome={#UI/Title/Biome/{0}}
-UI/Title/Biome/0=Garden
-UI/Title/Biome/1=Desert
-UI/Title/Biome/2=Ocean
-UI/Title/Biome/3=Jungle
-UI/Title/Biome/4=Hel
+UI/Title/Biome/0=Khu vườn
+UI/Title/Biome/1=Sa mạc
+UI/Title/Biome/2=Đại dương
+UI/Title/Biome/3=Rừng rậm
+UI/Title/Biome/4=Địa ngục
 
-UI/Login/PlayAsGuest=Play as guest
-UI/Login/SignInApple=Sign in with Apple
-UI/Login/SignInDiscord=Sign in with Discord
-UI/Login/Logout=Logout
-UI/Login/AccountID=Account ID:
-UI/Login/Connecting=(connecting)
-UI/Login/GuestName=Guest
-UI/Login/GuestInfo=If you already have a guest account in this device,<n/>signing in will link that account and keep your progress.
-UI/Login/LinkInfo=You can link your account to<n/>keep your progress across devices.
-UI/Login/Linked=Linked
-UI/Login/SupportPIN=Support PIN: {0}
-UI/Login/SupportPINHidden=Support PIN: (click to show)
-UI/Login/SupportPINInstructions1=Save this in case you lose access to your account
-UI/Login/SupportPINInstructions2=Do not share your support PIN with anyone
-UI/Login/Reminder=Link your account to save your progress
+UI/Login/PlayAsGuest=Chơi với tư cách là khách
+UI/Login/SignInApple=Đăng nhập bằng tài khoản Apple
+UI/Login/SignInDiscord=Đăng nhập bằng tài khoản Discord
+UI/Login/Logout=Đăng xuất
+UI/Login/AccountID=ID Tài khoản:
+UI/Login/Connecting=(đang tải)
+UI/Login/GuestName=Khách
+UI/Login/GuestInfo=Nếu bạn đã có tài khoản khách trên thiết bị này,<n/>đăng nhập vào sẽ liên kết tài khoản đó và vẫn sẽ lưu tiến trình của bạn.
+UI/Login/LinkInfo=Bạn có thể liên kết tài khoản của bạn để<n/>lưu tiến trình của bạn.
+UI/Login/Linked=Đã liên kết
+UI/Login/SupportPIN=PIN hỗ trợ: {0}
+UI/Login/SupportPINHidden=PIN hỗ trợ: (nhấn để hiển thị)
+UI/Login/SupportPINInstructions1=Lưu mã này phòng khi bạn mất truy cập
+UI/Login/SupportPINInstructions2=Đừng chia sẽ mã PIN hỗ trợ với bất kì again
+UI/Login/Reminder=Liên kết tài khoản để lưu tiến trình
 
-UI/Premium/MustLink1=To make any purchases, you must first
-UI/Premium/MustLink2=link your account to Discord or Apple.
+UI/Premium/MustLink1=Để thực hiện dịch vụ mua hàng, trước tiên bạn cần
+UI/Premium/MustLink2=liên kết tài khoản với Discord hoặc Apple.
 
-UI/AFKCheck/Title=AFK Check
-UI/AFKCheck/Instructions=Drag the circle until the end
+UI/AFKCheck/Title=Kiểm tra AFK
+UI/AFKCheck/Instructions=Kéo thả vòng tròn đến cuối đường
 
-UI/Achievement/Reward=Reward
+UI/Achievement/Reward=Phần thưởng
 UI/Achievement/RewardTP={0} TP
-UI/Achievement/Done=Done
-UI/Achievement/Track=Track
-UI/Achievement/TrackAutomatically=Track automatically
+UI/Achievement/Done=Đã hoàn thành
+UI/Achievement/Track=Theo dõi
+UI/Achievement/TrackAutomatically=Tự động theo dõi
 UI/Achievement/Hidden=???
-UI/Achievement/TotalProgress={0}/{1} completed
+UI/Achievement/TotalProgress=Đã hoàn thành {0}/{1}
 
 UI/Petal/Name={#Petals/{0:base}/Name}
 UI/Petal/FullName={#Petals/{0:base}/FullName}
@@ -82,39 +82,59 @@ UI/Mob/Rarity={#Rarities/{0:rarity}/Name}
 
 UI/Map/Name={#Maps/{0}/Name}
 
-UI/Talent/Title=Talents
 UI/Talent/Rarity={#Rarities/{0}/Name}
-UI/Talent/TP=TP
-UI/Talent/Tooltip=You can acquire more TP by leveling up
-UI/Talent/Reset=Reset
 
-UI/Craft/Title=Craft
-UI/Craft/Button=Craft
-UI/Craft/Chance={0:perc}% success chance
-UI/Craft/UnknownChance=?% success chance
-UI/Craft/CombineInstructions=Combine {0} of the same petal to craft an upgrade
-UI/Craft/FailureInstructions=Failure will destroy {0}-{1} petals
+UI/Craft/Title=Chế tạo
+UI/Craft/Button=Chế tạo
+UI/Craft/Chance={0:perc}% xác suất thành công
+UI/Craft/UnknownChance=?% xác suất thành công
+UI/Craft/CombineInstructions=Kết hợp {0} cánh hoa cùng loại để nâng cấp
+UI/Craft/FailureInstructions=Thất bại sẽ làm hỏng {0}-{1} cánh hoa
 
-UI/Absorb/Title=Absorb
-UI/Absorb/Button=Absorb
-UI/Absorb/Instructions=Absorb petals to gain XP<n/><c val="{#Colors/danger}">WARNING: The petals will be destroyed in the process</c>
+UI/Absorb/Title=Hấp thụ
+UI/Absorb/Button=Hấp thụ
+UI/Absorb/Instructions=Hấp thụ những cánh hoa để tăng XP<n/><c val="#FF6666">CẢNH BÁO: Những cánh hoa sẽ bị phá hủy trong quá trình này</c>
 
-UI/CoinCraft/Title=Trade
-UI/CoinCraft/Button=Trade
-UI/CoinCraft/Instructions=You can trade a petal for a coin of the same rarity
-UI/CoinCraft/Delay=You'll be able to trade again {0:timeLeft}
+UI/CoinCraft/Title=Trao đổi
+UI/CoinCraft/Button=Trao đổi
+UI/CoinCraft/Instructions=Bạn có thể đổi một cánh hoa cho một đồng cùng độ hiếm
+UI/CoinCraft/Delay=Bạn có thể đổi lần nữa trong {0:timeLeft}
 
-UI/OracleCraft/Title=Oracle
-UI/OracleCraft/Button=Craft
-UI/OracleCraft/Instructions=The Oracle will guarantee a craft... for the right price.
-UI/OracleCraft/Delay=You'll be able to craft again {0:timeLeft}
+UI/OracleCraft/Title=Tiên tri
+UI/OracleCraft/Button=Chế tạo
+UI/OracleCraft/Instructions=Nhà tiên tri sẽ đảm bảo cho một lần chế tạo... với mức giá phù hợp.
+UI/OracleCraft/Delay=Bạn có thể chế tạo lần nữa trong {0:timeLeft}
 
 UI/Plinko/Title=Plinko
-UI/Plinko/Auto=Auto
+UI/Plinko/Auto=Tự động
 
-UI/UniqueCraft/Title=Forge
-UI/UniqueCraft/Button=Forge
-UI/UniqueCraft/Instructions=Unique petals will last until another player forges the same petal.<n/>When that happens, you will receive your Super petals back.<n/>The cost increases each time that petal is forged.
-UI/UniqueCraft/NoSupers=You do not have any Super petals to attempt this.
+UI/UniqueCraft/Title=Rèn
+UI/UniqueCraft/Button=Rèn
+UI/UniqueCraft/Instructions=Những cánh hoa Độc quyền sẽ tồn tại cho đến khi người chơi khác rèn một cánh hoa cùng loại.<n/>Khi điều đó xảy ra, bạn sẽ nhận lại được những cánh hoa Siêu Đẳng.<n/>Chi phí rèn sẽ tăng cho mỗi lần rèn loại cánh hoa đó.
+UI/UniqueCraft/NoSupers=Bạn không có bất kì cánh hoa Siêu Đẳng nào để chế tạo.
 
-UI/Death/Poison=Poison
+UI/Death/Poison=Ngộ độc
+
+UI/Attribute/Health=Máu
+UI/Attribute/HealthColored=<c val="#66FF66">{#UI/Attribute/Health}</c>
+
+UI/Attribute/FlowerHealth=Máu hoa
+UI/Attribute/FlowerHealthColored=<c val="#66FF66">{#UI/Attribute/FlowerHealth}</c>
+
+UI/Attribute/BodyDamage=Sát thương cơ thể
+UI/Attribute/BodyDamageColored=<c val="#FF6666">{#UI/Attribute/BodyDamage}</c>
+
+UI/Attribute/Poison=Độc
+UI/Attribute/PoisonColored=<c val="#ce76db">{#UI/Attribute/Poison}</c>
+
+UI/Attribute/Luck=May mắn
+UI/Attribute/LuckColored=<c val="#d2eb34">{#UI/Attribute/Luck}</c>
+
+UI/Attribute/Healing=Hồi phục
+UI/Attribute/HealingColored=<c val="#ff94c9">{#UI/Attribute/Healing}</c>
+
+UI/Attribute/RotationSpeed=Tốc độ quay
+UI/Attribute/RotationSpeedColored=<c val="#d2eb34">{#UI/Attribute/RotationSpeed}</c>
+
+UI/Attribute/AttackRange=Phạm vi tấn công
+UI/Attribute/AttackRangeColored=<c val="#d2eb34">{#UI/Attribute/AttackRange}</c>

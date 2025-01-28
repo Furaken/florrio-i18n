@@ -1,23 +1,23 @@
-Maps/ant_hell/Name=Ant Hell
+Maps/ant_hell/Name=Địa ngục kiến
 
-Maps/ant_hole1/Name=Termite Mound
-Maps/ant_hole2/Name=Termite Mound
-Maps/ant_hole3/Name=Termite Mound
-Maps/ant_hole4/Name=Termite Mound
-Maps/ant_hole5/Name=Termite Mound
+Maps/ant_hole1/Name=Tổ kiến
+Maps/ant_hole2/Name=Tổ kiến
+Maps/ant_hole3/Name=Tổ kiến
+Maps/ant_hole4/Name=Tổ kiến
+Maps/ant_hole5/Name=Tổ kiến
 
-Maps/battle_ground/Name=Battle Ground
+Maps/battle_ground/Name=Chiến trường
 
-Maps/desert/Name=Desert
+Maps/desert/Name=Sa mạc
 
-Maps/garden/Name=Garden
+Maps/garden/Name=Khu vườn
 
-Maps/hel/Name=Hel
+Maps/hel/Name=Địa ngục
 
-Maps/jungle/Name=Jungle
+Maps/jungle/Name=Rừng rậm
 
-Maps/ocean/Name=Ocean
+Maps/ocean/Name=Đại dương
 
-Maps/sewers/Name=Sewers
+Maps/sewers/Name=Cống rãnh
 
-Maps/worm/Name=Worm
+Maps/worm/Name=Giun
